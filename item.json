@@ -1,0 +1,16 @@
+"item" : {
+    url: "path/filename.ext",
+    uuid: "459d9be04ab57d70f452b8817efef68b63d5bff20af40a99566adaa745962a05",
+
+    mod: "20/06/2016-hh:mm:ss:ms",
+    size: "7896",
+
+    hash: "a4c06ce705da140b6fcb8eee1fd4c78ef2361e3dd91de8d3f0dafb632948d48a",
+
+    state: "same" | "changed" | "missing" | "removed",
+
+    title: "the title",
+    descr: "the description",
+    keywords: [ "word1", "word2" ],
+    canvas: { "w":800, "h":600 },
+}
